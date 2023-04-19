@@ -1,4 +1,4 @@
 function downloadfile(){
-window.location.href="Resume/Prapanna Chakraborty.docx";
+window.location.href="Resume/BUARESUMENEW.docx";
 
 }
